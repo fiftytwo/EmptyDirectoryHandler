@@ -5,5 +5,5 @@
   "type": "tool",
   "keywords": [],
   "unity": "2019.3",
-  "description": "This tool monitors project folders to not allow empty directories. It creates hidden file for empty and remove it for non empty ones. It makes the project more healthy for CVS with no directories support."
+  "description": "The tool to solve meta-chaos problem for Unity projects under Git"
 }
