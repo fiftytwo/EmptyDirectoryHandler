@@ -1,0 +1,124 @@
+# OS generated trash
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+[Ee]hthumbs.db
+[Tt]humbs.db
+default.profraw
+
+# Build results
+/[Bb]in/
+/[Bb]in.meta
+/[Oo]bj/
+/[Oo]bj.meta
+/[Ee]xportedObj/
+/[Ee]xportedObj.meta
+/[Bb]uild/
+/[Bb]uild.meta
+
+# Unity temp and user specific stuff
+/[Tt]emp/
+/[Tt]emp.meta
+/[Ll]ibrary/
+/[Ll]ibrary.meta
+/[Ll]ogs/
+/[Ll]ogs.meta
+/PlaygroundCache/
+/PlaygroundCache.meta
+/UserSettings/
+/UserSettings.meta
+/mono_crash.*
+/*.blob
+
+# Unity generated project
+/*.csproj
+/*.csproj.meta
+/*.sln
+/*.sln.meta
+/*.unityproj
+/*.unityproj.meta
+/*.booproj
+/*.booproj.meta
+
+# User-specific and IDE generated files
+.vs/
+*.suo
+*.suo.meta
+*.user
+*.user.meta
+*.sln.docstates
+*.sln.docstates.meta
+*.userprefs
+*.userprefs.meta
+*.svd
+*.svd.meta
+*.pidb
+*.pidb.meta
+*.exe.stackdump
+*.exe.stackdump.meta
+*.dSYM
+*.dSYM.meta
+sysinfo.txt
+sysinfo.txt.meta
+
+/**/.vscode/launch.json
+/**/.vscode/.*
+
+**/.idea/**/*.iml
+**/.idea/**/contentModel.xml
+**/.idea/**/encodings.xml
+**/.idea/**/indexLayout.xml
+**/.idea/**/misc.xml
+**/.idea/**/modules.xml
+**/.idea/**/workspace.xml
+**/.idea/**/projectSettingsUpdater.xml
+**/.idea/**/dictionaries
+**/Assets/Plugins/Editor/JetBrains/
+**/Assets/Plugins/Editor/JetBrains.meta
+
+
+# Folders with generated content
+Assets/**/[Gg]enerated.meta
+Assets/**/[Gg]enerated/
+
+# Folders with backups
+Assets/**/[Bb]ackup/
+Assets/**/[Bb]ackup.meta
+
+# Ludiq assets, each user must install them if needed
+Ludiq*
+
+# Houdini
+HoudiniTemp/
+HoudiniTemp.meta
+**/HoudiniEngineAssetCache/Working/
+**/HoudiniEngineAssetCache/Working.meta
+**/heu_session.txt
+pdgtemp/
+pdgtemp.meta
+
+# Odin
+**/Assets/Plugins/Sirenix/Demos/*
+!**/Assets/Plugins/Sirenix/Demos/*.unitypackage
+!**/Assets/Plugins/Sirenix/Demos/*.unitypackage.meta
+**/Assets/Plugins/Sirenix/Source/
+**/Assets/Plugins/Sirenix/Source.meta
+
+# AmplifyShaderEditor
+AmplifyShaderEditor*
+
+# Xcode
+xcuserdata/
+*.xccheckout
+
+# Camera Capture videos
+/*.mov
+/*.mp4
+/Capture/
+/Recordings/
+
+# Shader control
+**/Assets/ShaderControl/Editor/Resources/
+**/Assets/ShaderControl/Editor/Resources.meta
